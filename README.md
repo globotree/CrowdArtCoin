@@ -1,1 +1,2 @@
-# CrowdArtCoin
+# Crowd Art Coin
+* 
