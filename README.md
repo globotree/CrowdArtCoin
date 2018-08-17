@@ -6,3 +6,5 @@
 
 ## Research and Notes
 * https://www.crowdcheck.com/services
+
+https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdukicvuk%2Fposts%2F10156558603649603&width=500" width="500" height="191" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
