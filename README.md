@@ -10,6 +10,7 @@
 * Truffle - Framework for compiling, migrating and testing smart contracts.  It also can handle network management for deploying to different private and public networks.
 * IPFS (inter-planetary file system) - Decentralized storage.
 * uPort - Identity management, digitally sign transactions and easy login to dapps.
+* Infura - 
 
 ## Research and Notes
 * https://www.crowdcheck.com/services
