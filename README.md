@@ -4,6 +4,13 @@
 * 0x5bbb8082092a4d810b3ef40b20bd77f665aada81
 * Metamask Rinkby Account1: 0x7a62dbF25D01a9eDB40cA4BC35FA0608F66c2Ca5
 
+## Tech Stack
+* React
+* Solidity
+* Truffle - Framework for compiling, migrating and testing smart contracts.
+* IPFS (inter-planetary file system) - Decentralized storage.
+* uPort - Identity management, digitally sign transactions and easy login to dapps.
+
 ## Research and Notes
 * https://www.crowdcheck.com/services
 
