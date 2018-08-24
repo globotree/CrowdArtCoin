@@ -21,6 +21,7 @@
 * IPFS (inter-planetary file system) - Decentralized storage.
 * uPort - Identity management, digitally sign transactions and easy login to dapps.
 * Infura - is used to connect to the Rinkeby test network
+* <b>web3.js</b> - is a collection of libraries which allow you to interact with a local or remote Ethereum node. 
 
 ## Research and Notes
 * https://www.crowdcheck.com/services
