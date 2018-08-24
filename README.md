@@ -1,6 +1,6 @@
 # Crowd Art Coin
 ## 
-* [Silent But Deadly: The Mystery of Ethereum Gas Prices](https://medium.com/the-notice-board/silent-but-deadly-the-mystery-of-ethereum-gas-prices-d9c19b86ce71)
+* [Ethereum Gas Prices](https://medium.com/the-notice-board/silent-but-deadly-the-mystery-of-ethereum-gas-prices-d9c19b86ce71)
 * 
 
 ##
