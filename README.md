@@ -3,6 +3,7 @@
 * [Ethereum Gas Prices](https://medium.com/the-notice-board/silent-but-deadly-the-mystery-of-ethereum-gas-prices-d9c19b86ce71)
 * [Sparkswap](https://sparkswap.com/)
 * [React & Ethereum](https://levelup.gitconnected.com/https-medium-com-zubairnahmed-react-ethereum-getting-started-with-the-minimum-toolset-required-part-1-of-4-9562efa23d18)
+* [JSON RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC#json-rpc-api)
 
 ##
 * Recipient: 0xF82A2FD6f9379077dC203Cd25D389E5C0445DE8e
