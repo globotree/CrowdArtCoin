@@ -6,6 +6,7 @@
 * [JSON RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC#json-rpc-api)
 * [INTEGRATING COINBASE CONNECT](https://developers.coinbase.com/docs/wallet/coinbase-connect/integrating)
 * [Full Stack DApp on Ethereum ](https://medium.com/coinmonks/a-gentle-intro-to-building-a-full-stack-dapp-on-ethereum-part-1-c1aedb11fcd2)
+* [Truffle Configuration](https://truffleframework.com/docs/truffle/reference/configuration)
 
 ##
 * Recipient: 0xF82A2FD6f9379077dC203Cd25D389E5C0445DE8e
