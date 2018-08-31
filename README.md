@@ -27,3 +27,15 @@
 * https://www.crowdcheck.com/services
 
 https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdukicvuk%2Fposts%2F10156558603649603&width=500" width="500" height="191" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+### 
+* yarn start - Starts the development server.
+
+* yarn build -    Bundles the app into static files for production.
+
+* yarn test -    Starts the test runner.
+
+* yarn eject -  Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+* cd first-react-app  
+* yarn start
